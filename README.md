@@ -19,3 +19,9 @@ condaコマンドが使える場合は下記で仮想環境が構築・利用で
 conda create -n jjspe202010 -c conda-forge python=3.7 numpy pillow scipy notebook matplotlib scikit-image jupyter_nbextensions_configurator py-opencv
 conda activate jjspe202010
 ```
+
+## このrepositoryについて
+* 実際に確認した内容に基いて記述していますが，環境の違いにより意図せぬ動作をする場合があります
+* 記載されている文章，ソース，画像等で出典の記載されていない物の著作権は門馬英一郎に帰属します
+* 研究，教育目的に於いては，出典を明記すれば自由に利用して構いません
+* 商用利用を目的とする場合にはメール等でご連絡下さい
