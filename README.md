@@ -2,6 +2,9 @@
 ここで公開するipynbおよび画像は精密工学会誌2020年10月号「はじめての精密工学」と連動した内容となっています。
 また，OpenCVを主として[画像処理100本ノック](https://yoyoyo-yo.github.io/Gasyori100knock/)を出来るだけ簡潔に解く方法についても掲載しています。
 
+* [2章 画像データの扱い](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/2_IO.ipynb)
+* [3章 基本的な画像処理](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/3_Kihon.ipynb)
+
 ## 環境構築
 channelはdefaults, conda-forgeを利用した。installしたパッケージは下記の通り。
 * python = 3.7
@@ -19,6 +22,12 @@ condaコマンドが使える場合は下記で仮想環境が構築・利用で
 conda create -n jjspe202010 -c conda-forge python=3.7 numpy pillow scipy notebook matplotlib scikit-image jupyter_nbextensions_configurator py-opencv
 conda activate jjspe202010
 ```
+
+## 関連情報
+
+* sample.jpgの出典: [精密工学会 画像応用技術専門委員会](http://www.tc-iaip.org/index.shtml)のロゴ。年5回の研究会の他ViEW, DIA等の大会，外観検査アルゴリズムコンテストも開催しているので興味のある方の参加をお待ちしています
+* [Jupyter Notebookの簡単な操作法](https://github.com/eiichiromomma/CVMLAB/wiki/Python-Jupyter)
+
 
 ## このrepositoryについて
 * 実際に確認した内容に基いて記述していますが，環境の違いにより意図せぬ動作をする場合があります
