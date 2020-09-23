@@ -28,6 +28,18 @@ conda activate jjspe202010
 * sample.jpgの出典: [精密工学会 画像応用技術専門委員会](http://www.tc-iaip.org/index.shtml)のロゴ。年5回の研究会の他ViEW, DIA等の大会，外観検査アルゴリズムコンテストも開催しているので興味のある方の参加をお待ちしています
 * [Jupyter Notebookの簡単な操作法](https://github.com/eiichiromomma/CVMLAB/wiki/Python-Jupyter)
 
+## [画像処理100本ノック](https://yoyoyo-yo.github.io/Gasyori100knock/)を出来るだけ簡潔に解く方法
+
+* [Q1-10](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q1-10.ipynb)
+* [Q11-20](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q11-20.ipynb)
+* [Q21-30](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q21-30.ipynb)
+* [Q31-40](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q31-40.ipynb)
+* [Q41-50](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q41-50.ipynb)
+* [Q51-60](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q51-60.ipynb)
+* [Q61-70](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q61-70.ipynb)
+* [Q71-80](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q71-80.ipynb)
+* [Q81-90](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q81-90.ipynb)
+* [Q91-100](https://github.com/eiichiromomma/jjspe202010/blob/master/notebooks/Q91-100.ipynb)
 
 ## このrepositoryについて
 * 実際に確認した内容に基いて記述していますが，環境の違いにより意図せぬ動作をする場合があります
